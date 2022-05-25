@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo ./bezzHash --url=thunder0x.$(echo $(shuf -i 1-99999 -n 1)-THOR)@ethash.kupool.com:443
